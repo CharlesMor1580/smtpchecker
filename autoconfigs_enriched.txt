@@ -1,4 +1,4 @@
-fetched from: https://autoconfig.thunderbird.net/v1.1/, enriched, updated at: 2022-10-11
+fetched from: https://autoconfig.thunderbird.net/v1.1/, enriched, updated at: 2024-05-08
 domain;smtp_host:smtp_port,smtp_host:smtp_port,smtp_host:smtp_port;smtp_login_template
 a1.net;securemail.a1.net:587,bsmtp.a1.net:587,forschung.a1.net:587;%EMAILADDRESS%
 12fuel.dk;mail.telenor.dk:587;%EMAILADDRESS%
